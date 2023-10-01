@@ -1,0 +1,27 @@
+/*Resetting some default browser styling*/
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+/*Applying some basic styles*/
+body {
+  font-family: Arial, sans-serif;
+  background-color: ivory;
+  color: black;
+}
+
+header {
+  background-color: grey;
+  padding: 1rem;
+}
+
+h1 {
+  color: #fff;
+  font size: 2rem;
+  margin-bottom: .75rem;
+}
+
+nav ul {
+  list-style: none;
+}
